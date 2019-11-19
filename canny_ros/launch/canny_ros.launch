@@ -1,0 +1,9 @@
+<!-- -->
+<launch>
+
+<node name="cannyEdge" pkg ="canny_ros" type="canny.py" respawn="false" output="screen"/>
+
+</launch>
+
+
+
